@@ -1,0 +1,3157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340026500000,
+                "duration": 6609,
+                "accuracy": 80,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.436016599999999,
+                    46.94632700000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340096777000,
+                "duration": 0,
+                "accuracy": 1831,
+                "placename": "Germany, Zeppelinheim (05)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.593043,
+                    50.027401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340123484000,
+                "duration": 0,
+                "accuracy": 3300,
+                "placename": "Germany, Frankfurt Main Flughafen (05)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.57299,
+                    50.04755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340124026000,
+                "duration": 8402,
+                "accuracy": 1680,
+                "placename": "Germany, Zeppelinheim (05)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.605218,
+                    50.031307999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340134828000,
+                "duration": 0,
+                "accuracy": 3300,
+                "placename": "Germany, Frankfurt Main Flughafen (05)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.57299,
+                    50.04755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340200844000,
+                "duration": 0,
+                "accuracy": 1533,
+                "placename": "Germany, Frankfurt Main Flughafen (05)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.530227,
+                    50.040839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340269561000,
+                "duration": 6961,
+                "accuracy": 100000,
+                "placename": "Singapore, Outram Park (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836366,
+                    1.283702000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340277663000,
+                "duration": 9842,
+                "accuracy": 413,
+                "placename": "Singapore, Raffles Place (None)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854741,
+                    1.2876989999999944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340293275000,
+                "duration": 1190,
+                "accuracy": 100000,
+                "placename": "Singapore, Outram Park (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836366,
+                    1.283702000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340329035000,
+                "duration": 91340,
+                "accuracy": 496,
+                "placename": "Singapore, York Hill Estate (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842273,
+                    1.2937670000000059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340444380000,
+                "duration": 600,
+                "accuracy": 459,
+                "placename": "Singapore, Lavender (None)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.857513,
+                    1.307923999999992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340451584000,
+                "duration": 0,
+                "accuracy": 716,
+                "placename": "Singapore, Yio Chu Kang (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84810300000001,
+                    1.3966980000000115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340454585000,
+                "duration": 0,
+                "accuracy": 6069,
+                "placename": "Singapore, Night Safari (None)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.784078,
+                    1.4078209999999984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340458784000,
+                "duration": 0,
+                "accuracy": 1449,
+                "placename": "Singapore, Night Safari (None)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79407299999998,
+                    1.4032820000000024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340464785000,
+                "duration": 1802,
+                "accuracy": 274,
+                "placename": "Singapore, People’s Park (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845248,
+                    1.28646100000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340468386000,
+                "duration": 57976,
+                "accuracy": 496,
+                "placename": "Singapore, York Hill Estate (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842273,
+                    1.2937670000000059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340527560000,
+                "duration": 2881,
+                "accuracy": 100000,
+                "placename": "Singapore, Outram Park (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836366,
+                    1.283702000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340530983000,
+                "duration": 1200,
+                "accuracy": 339,
+                "placename": "Singapore, People’s Park (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843986,
+                    1.2810149999999898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340532781000,
+                "duration": 4023,
+                "accuracy": 100000,
+                "placename": "Singapore, Outram Park (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836366,
+                    1.283702000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340537402000,
+                "duration": 0,
+                "accuracy": 303,
+                "placename": "Singapore, People’s Park (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84439,
+                    1.2828310000000076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340537944000,
+                "duration": 13922,
+                "accuracy": 100000,
+                "placename": "Singapore, Outram Park (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836366,
+                    1.283702000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340552408000,
+                "duration": 0,
+                "accuracy": 401,
+                "placename": "Singapore, Singapore (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846197,
+                    1.2901860000000063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340553006000,
+                "duration": 4023,
+                "accuracy": 100000,
+                "placename": "Singapore, Outram Park (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836366,
+                    1.283702000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340561050000,
+                "duration": 73697,
+                "accuracy": 401,
+                "placename": "Singapore, Singapore (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846197,
+                    1.2901860000000063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340713681000,
+                "duration": 2042,
+                "accuracy": 1232,
+                "placename": "Singapore, Old Kallang Airport Estate (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89997600000001,
+                    1.308145999999992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340716743000,
+                "duration": 7140,
+                "accuracy": 5552,
+                "placename": "Singapore, Happy Gardens (00)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.894743,
+                    1.3313350000000053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340724905000,
+                "duration": 29227,
+                "accuracy": 796,
+                "placename": "Singapore, Raffles Place (None)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85685200000002,
+                    1.2868930000000134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340759834000,
+                "duration": 15123,
+                "accuracy": 418,
+                "placename": "Singapore, Bugis (None)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.857969,
+                    1.3000090000000055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340781917000,
+                "duration": 0,
+                "accuracy": 796,
+                "placename": "Singapore, Raffles Place (None)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85685200000002,
+                    1.2868930000000134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340864500000,
+                "duration": 0,
+                "accuracy": 9894,
+                "placename": "Taiwan, Nanzi (04)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.202921,
+                    25.066187000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340866058000,
+                "duration": 0,
+                "accuracy": 100000,
+                "placename": "Taiwan, Ganchengsancun (03)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42175199999998,
+                    25.065381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340866721000,
+                "duration": 0,
+                "accuracy": 234,
+                "placename": "Taiwan, Dazhi (04)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544367,
+                    25.072573000000013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340880822000,
+                "duration": 13083,
+                "accuracy": 23612,
+                "placename": "Taiwan, Dingdongshi (04)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56517999999998,
+                    25.050555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1340895047000,
+                "duration": 0,
+                "accuracy": 915,
+                "placename": "Taiwan, Xihu (04)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.558466,
+                    25.083675999999997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341229700000,
+                "duration": 0,
+                "accuracy": 905,
+                "placename": "Taiwan, Xiatayou (04)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56945300000001,
+                    25.079442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341584163000,
+                "duration": 73818,
+                "accuracy": 23612,
+                "placename": "Taiwan, Dingdongshi (04)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56517999999998,
+                    25.050555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341658583000,
+                "duration": 1258,
+                "accuracy": 100000,
+                "placename": "Taiwan, Shuanglian (04)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51384,
+                    25.069304999999993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341667955000,
+                "duration": 648,
+                "accuracy": 219,
+                "placename": "Taiwan, Da’an (04)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53377700000001,
+                    25.02062800000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341676109000,
+                "duration": 0,
+                "accuracy": 437,
+                "placename": "Taiwan, Da’an (04)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.534172,
+                    25.028677000000005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341752350000,
+                "duration": 7379,
+                "accuracy": 23612,
+                "placename": "Taiwan, Dingdongshi (04)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56517999999998,
+                    25.050555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341915858000,
+                "duration": 0,
+                "accuracy": 773,
+                "placename": "Thailand, Bangkok (40)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.493829,
+                    13.768346999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341917120000,
+                "duration": 0,
+                "accuracy": 701,
+                "placename": "Thailand, Khlong San (40)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.510883,
+                    13.729116000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341917841000,
+                "duration": 5761,
+                "accuracy": 321,
+                "placename": "Thailand, Samphanthawong (40)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.515752,
+                    13.718868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341924211000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Bern / Mattenhof (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.418594000000001,
+                    46.93243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341925882000,
+                "duration": 0,
+                "accuracy": 353,
+                "placename": "Thailand, Watthana (40)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.59843600000002,
+                    13.742038000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341926540000,
+                "duration": 0,
+                "accuracy": 839,
+                "placename": "Thailand, Ban Khlong Ban Ma Bon (40)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.683388,
+                    13.734685999999991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341979783000,
+                "duration": 3121,
+                "accuracy": 80,
+                "placename": "Switzerland, Eichhof (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.545775,
+                    47.44744000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341983553000,
+                "duration": 5584,
+                "accuracy": 1874,
+                "placename": "Switzerland, Zürich (Kreis 11) / Seebach (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.551111,
+                    47.41461599999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341989746000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Zürich (Kreis 5) (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.519344,
+                    47.386524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341990346000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Zürich (Kreis 4) / Langstrasse (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.53505,
+                    47.37738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341990946000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Würenlos (AG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3678055,
+                    47.43101999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341991552000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Lenzburg (AG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.194916,
+                    47.3909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341992195000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Niedergösgen (SO)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.977426,
+                    47.36423500000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341992804000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Olten (SO)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.907037,
+                    47.33846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341993407000,
+                "duration": 1249,
+                "accuracy": 80,
+                "placename": "Switzerland, Derendingen (SO)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.585117999999999,
+                    47.196297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341995267000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Cressier (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0267315,
+                    47.048125999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341995926000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Hauterive (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.974475400000001,
+                    47.00385000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1341996576000,
+                "duration": 7023,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342004204000,
+                "duration": 0,
+                "accuracy": 37793,
+                "placename": "Switzerland, Boudevilliers (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.880981,
+                    47.02108499999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342004858000,
+                "duration": 3082,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342009851000,
+                "duration": 14654,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.937684000000001,
+                    47.000995999999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342028285000,
+                "duration": 6831,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342039427000,
+                "duration": 6852,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342050600000,
+                "duration": 10693,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342065654000,
+                "duration": 9422,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342075686000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Epagnier (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.017937699999999,
+                    46.995026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342076336000,
+                "duration": 0,
+                "accuracy": 14660,
+                "placename": "Switzerland, Treiten (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1653899999999995,
+                    47.01400599999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342076946000,
+                "duration": 3082,
+                "accuracy": 80,
+                "placename": "Switzerland, Riedern (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.372973,
+                    46.94271000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342088109000,
+                "duration": 16805,
+                "accuracy": 80,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4281354,
+                    46.94632700000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342105515000,
+                "duration": 0,
+                "accuracy": 1592,
+                "placename": "Switzerland, Rosshäusern (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.29357,
+                    46.935242000000024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342106116000,
+                "duration": 0,
+                "accuracy": 6084,
+                "placename": "Switzerland, Fräschels (FR)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.187362,
+                    46.996227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342106717000,
+                "duration": 647,
+                "accuracy": 80,
+                "placename": "Switzerland, Epagnier (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0309815,
+                    47.00856400000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342108024000,
+                "duration": 602,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.937684000000001,
+                    47.000995999999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342109345000,
+                "duration": 3728,
+                "accuracy": 37793,
+                "placename": "Switzerland, Boudevilliers (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.880981,
+                    47.02108499999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342113674000,
+                "duration": 17516,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.937684000000001,
+                    47.000995999999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342139952000,
+                "duration": 18005,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.937684000000001,
+                    47.000995999999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342158558000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Epagnier (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.017937699999999,
+                    46.995026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342159217000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Kerzers (FR)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1889443,
+                    46.97484000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342159937000,
+                "duration": 3121,
+                "accuracy": 1147,
+                "placename": "Switzerland, Riedern (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.367318000000001,
+                    46.94426300000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342163666000,
+                "duration": 6834,
+                "accuracy": 17873,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.44633,
+                    46.943279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342171160000,
+                "duration": 6242,
+                "accuracy": 384,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.429542,
+                    46.946993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342178007000,
+                "duration": 3117,
+                "accuracy": 17873,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.44633,
+                    46.943279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342181725000,
+                "duration": 1869,
+                "accuracy": 80,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4281354,
+                    46.94632700000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342184205000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Bern / Weyermannshaus (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.404487,
+                    46.95442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342184844000,
+                "duration": 0,
+                "accuracy": 7149,
+                "placename": "Switzerland, Bolligen (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.499183999999999,
+                    46.969951000000016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342185454000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Münstschemier (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.148121,
+                    46.990032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342186066000,
+                "duration": 638,
+                "accuracy": 80,
+                "placename": "Switzerland, Epagnier (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0309815,
+                    47.00856400000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342187315000,
+                "duration": 51662,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342254590000,
+                "duration": 4392,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.937684000000001,
+                    47.000995999999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342259622000,
+                "duration": 3181,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9509225,
+                    46.99115799999998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342263414000,
+                "duration": 3110,
+                "accuracy": 80,
+                "placename": "Switzerland, Marin (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.994124,
+                    47.01292400000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342267136000,
+                "duration": 5629,
+                "accuracy": 37793,
+                "placename": "Switzerland, Boudevilliers (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.880981,
+                    47.02108499999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342273366000,
+                "duration": 1863,
+                "accuracy": 1471,
+                "placename": "Switzerland, Ligerz (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.133685,
+                    47.0839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342275836000,
+                "duration": 3111,
+                "accuracy": 80,
+                "placename": "Switzerland, Derendingen (SO)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.599658000000001,
+                    47.204372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342283277000,
+                "duration": 16856,
+                "accuracy": 80,
+                "placename": "Switzerland, Härkingen (SO)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.831313599999999,
+                    47.29736299999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342302595000,
+                "duration": 3120,
+                "accuracy": 80,
+                "placename": "Switzerland, La Neuveville (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.117372,
+                    47.075404999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342306316000,
+                "duration": 7511,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342336382000,
+                "duration": 3120,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342343785000,
+                "duration": 43495,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342391715000,
+                "duration": 24248,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342417825000,
+                "duration": 658,
+                "accuracy": 80,
+                "placename": "Switzerland, Kerzers (FR)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1889443,
+                    46.97484000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342419084000,
+                "duration": 3120,
+                "accuracy": 80,
+                "placename": "Switzerland, Riedern (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.372973,
+                    46.94271000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342422864000,
+                "duration": 10746,
+                "accuracy": 556,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4295,
+                    46.947399000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342434215000,
+                "duration": 6833,
+                "accuracy": 17873,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.44633,
+                    46.943279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342441653000,
+                "duration": 5942,
+                "accuracy": 556,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4295,
+                    46.947399000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342452756000,
+                "duration": 840,
+                "accuracy": 17873,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.44633,
+                    46.943279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342454437000,
+                "duration": 0,
+                "accuracy": 7149,
+                "placename": "Switzerland, Bolligen (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.499183999999999,
+                    46.969951000000016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342455272000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Münstschemier (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.148121,
+                    46.990032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342786501000,
+                "duration": 0,
+                "accuracy": 2768,
+                "placename": "Switzerland, Geretsried (FR)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.336385000000001,
+                    46.890990999999985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342787101000,
+                "duration": 1801,
+                "accuracy": 80,
+                "placename": "Switzerland, Ueberstorf (FR)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3022175,
+                    46.87698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342789503000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Oron-la-ville (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.840039700000001,
+                    46.56153999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342790103000,
+                "duration": 1200,
+                "accuracy": 80,
+                "placename": "Switzerland, Pully (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.656827,
+                    46.51454000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342791904000,
+                "duration": 3004,
+                "accuracy": 80,
+                "placename": "Switzerland, Vidy (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.591609,
+                    46.518573999999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342795508000,
+                "duration": 3004,
+                "accuracy": 80,
+                "placename": "Switzerland, Saint-Sulpice (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5629716,
+                    46.516556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342799713000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Ecublens (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5654755,
+                    46.52287300000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342800314000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Vidy (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.603225,
+                    46.525856000000005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342803316000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Prilly (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.592729000000001,
+                    46.530277000000005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342803917000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Arnex (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.532698,
+                    46.68994499999998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342804517000,
+                "duration": 3603,
+                "accuracy": 80,
+                "placename": "Switzerland, Saint-Aubin-Sauges (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.777242,
+                    46.896731999999986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342808721000,
+                "duration": 3601,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342817125000,
+                "duration": 3603,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342825534000,
+                "duration": 24619,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342854957000,
+                "duration": 3002,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.914026300000001,
+                    46.999992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342858559000,
+                "duration": 7204,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.937684000000001,
+                    47.000995999999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342866363000,
+                "duration": 3003,
+                "accuracy": 80,
+                "placename": "Switzerland, Monruz (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.956132000000001,
+                    46.996579999999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342869967000,
+                "duration": 3603,
+                "accuracy": 80,
+                "placename": "Switzerland, Marin (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.994124,
+                    47.01292400000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342874171000,
+                "duration": 13813,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342888585000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Cheyres (FR)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.766109,
+                    46.842693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342889186000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Bonvillars (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.669179,
+                    46.83667999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342889786000,
+                "duration": 1800,
+                "accuracy": 80,
+                "placename": "Switzerland, Bavois (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5693865,
+                    46.684834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342892187000,
+                "duration": 1202,
+                "accuracy": 80,
+                "placename": "Switzerland, Allaman (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4182963,
+                    46.44877199999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342895930000,
+                "duration": 1204,
+                "accuracy": 24316,
+                "placename": "Switzerland, Prilly (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.592516000000001,
+                    46.53316000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342897735000,
+                "duration": 600,
+                "accuracy": 80,
+                "placename": "Switzerland, Allaman (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4156084,
+                    46.453247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342898936000,
+                "duration": 600,
+                "accuracy": 80,
+                "placename": "Switzerland, Bavois (VD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5758495,
+                    46.689379999999986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342900136000,
+                "duration": 3001,
+                "accuracy": 80,
+                "placename": "Switzerland, Vernéaz (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.753989699999999,
+                    46.867810000000006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342903737000,
+                "duration": 3604,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342934365000,
+                "duration": 16215,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342951181000,
+                "duration": 3604,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9509225,
+                    46.99115799999998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342955385000,
+                "duration": 12008,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1342972198000,
+                "duration": 56458,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343029256000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Epagnier (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0309815,
+                    47.00856400000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343029856000,
+                "duration": 3003,
+                "accuracy": 80,
+                "placename": "Switzerland, Kerzers (FR)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1889443,
+                    46.97484000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343033460000,
+                "duration": 3010,
+                "accuracy": 1802,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.452794999999999,
+                    46.939846999999986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343037075000,
+                "duration": 3610,
+                "accuracy": 384,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.429542,
+                    46.946993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343041290000,
+                "duration": 3611,
+                "accuracy": 17873,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.44633,
+                    46.943279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343045501000,
+                "duration": 13210,
+                "accuracy": 80,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4281354,
+                    46.94632700000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343059313000,
+                "duration": 604,
+                "accuracy": 1592,
+                "placename": "Switzerland, Rosshäusern (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.29357,
+                    46.935242000000024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343060518000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Epagnier (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0309815,
+                    47.00856400000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343061119000,
+                "duration": 13206,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.931152300000001,
+                    46.99646999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343117807000,
+                "duration": 1262,
+                "accuracy": 1612,
+                "placename": "Switzerland, Winkeln (SG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.302901,
+                    47.399148999999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343133349000,
+                "duration": 0,
+                "accuracy": 3300,
+                "placename": "Austria, Wolfurt (08)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.751730000000002,
+                    47.46794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343134791000,
+                "duration": 0,
+                "accuracy": 1732,
+                "placename": "Austria, Gaißau (08)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.597585,
+                    47.46767200000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343135450000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Buchen (AR)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.552095,
+                    47.47482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343136052000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Oberdorf (SG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.272904,
+                    47.421104000000014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343136710000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Münchwilen (TG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.998788,
+                    47.475502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343137370000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Lommis (TG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.989278,
+                    47.513412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343137971000,
+                "duration": 1261,
+                "accuracy": 80,
+                "placename": "Switzerland, Stettfurt (TG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.948362,
+                    47.52205000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343139891000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Lommis (TG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.989278,
+                    47.513412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343140492000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Lommis (TG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.998859,
+                    47.523182000000006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343141151000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Lommis (TG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.989278,
+                    47.513412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343141752000,
+                "duration": 1259,
+                "accuracy": 80,
+                "placename": "Switzerland, Lommis (TG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.998859,
+                    47.523182000000006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343143611000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Lommis (TG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.989278,
+                    47.513412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343144213000,
+                "duration": 1259,
+                "accuracy": 80,
+                "placename": "Switzerland, Lommis (TG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.998859,
+                    47.523182000000006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343146073000,
+                "duration": 601,
+                "accuracy": 80,
+                "placename": "Switzerland, Lommis (TG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.989278,
+                    47.513412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343147274000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Lommis (TG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.998859,
+                    47.523182000000006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343147874000,
+                "duration": 3004,
+                "accuracy": 80,
+                "placename": "Switzerland, Veltheim (Kreis 5) (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.72124,
+                    47.520289999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343151479000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Hinter-Rüti (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.655275,
+                    47.42295500000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343152080000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Glattbrugg / Flughofstrasse (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.560415,
+                    47.45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343152680000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Zürich (Kreis 4) / Langstrasse (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.536393,
+                    47.378269999999986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343153280000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Zürich (Kreis 4) / Hard (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.515281,
+                    47.382065000000026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343153882000,
+                "duration": 0,
+                "accuracy": 921,
+                "placename": "Switzerland, Neuenhof (AG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3381,
+                    47.445973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343154482000,
+                "duration": 600,
+                "accuracy": 80,
+                "placename": "Switzerland, Rupperswil (AG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1341915,
+                    47.40657399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343155683000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Olten (SO)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.903052,
+                    47.33667400000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343156283000,
+                "duration": 1200,
+                "accuracy": 80,
+                "placename": "Switzerland, Luterbach (SO)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5904317,
+                    47.20888500000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343158084000,
+                "duration": 601,
+                "accuracy": 80,
+                "placename": "Switzerland, Ligerz (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1213384,
+                    47.07271600000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343161088000,
+                "duration": 3003,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343177302000,
+                "duration": 58433,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343238036000,
+                "duration": 902,
+                "accuracy": 80,
+                "placename": "Switzerland, La Coudre (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9612947,
+                    47.007393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343242719000,
+                "duration": 16332,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.937684000000001,
+                    47.000995999999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343263854000,
+                "duration": 3601,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343271660000,
+                "duration": 12613,
+                "accuracy": 80,
+                "placename": "Switzerland, Neuchâtel (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9377093,
+                    46.9983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343284873000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Epagnier (NE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.017937699999999,
+                    46.995026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343285474000,
+                "duration": 601,
+                "accuracy": 80,
+                "placename": "Switzerland, Kerzers (FR)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1889443,
+                    46.97484000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343286675000,
+                "duration": 3002,
+                "accuracy": 80,
+                "placename": "Switzerland, Riedern (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.372973,
+                    46.94271000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343290282000,
+                "duration": 11443,
+                "accuracy": 17873,
+                "placename": "Switzerland, Bern / Marzili (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.44633,
+                    46.943279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343302330000,
+                "duration": 3617,
+                "accuracy": 80,
+                "placename": "Switzerland, Worblaufen (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.467558400000001,
+                    46.980506999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343308395000,
+                "duration": 0,
+                "accuracy": 6238,
+                "placename": "Switzerland, Hindelbank (BE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.530730000000001,
+                    47.036763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343308996000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Heinrichswil (SO)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.623267,
+                    47.16116299999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343309596000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Olten (SO)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9057765,
+                    47.34565700000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343310252000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Mellingen (AG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.277637,
+                    47.429010000000005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343310853000,
+                "duration": 601,
+                "accuracy": 80,
+                "placename": "Switzerland, Dietikon / Hofacker (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.414909,
+                    47.39735000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343315057000,
+                "duration": 2461,
+                "accuracy": 1874,
+                "placename": "Switzerland, Zürich (Kreis 11) / Seebach (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.551111,
+                    47.41461599999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343318119000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Eichhof (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.544487,
+                    47.449253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343318719000,
+                "duration": 0,
+                "accuracy": 80,
+                "placename": "Switzerland, Kloten / Holberg (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.560434,
+                    47.45089699999998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343319321000,
+                "duration": 602,
+                "accuracy": 1874,
+                "placename": "Switzerland, Zürich (Kreis 11) / Seebach (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.551111,
+                    47.41461599999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343320524000,
+                "duration": 5409,
+                "accuracy": 80,
+                "placename": "Switzerland, Eichhof (ZH)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.545775,
+                    47.44744000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datetime": 1343326535000,
+                "duration": 47155,
+                "accuracy": 100000,
+                "placename": "United Kingdom, West Drayton (ENG)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.450053,
+                    51.502007
+                ]
+            }
+        }
+    ]
+}
