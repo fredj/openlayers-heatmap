@@ -28,7 +28,7 @@ var vector = new OpenLayers.Layer.Vector("heatmap", {
         }, {
             context: {
                 weight: function(f) {
-                    return Math.min((f.attributes.duration || 0) / 43200, 1.0);
+                    return Math.min(Math.max((f.attributes.duration || 0) / 43200, 0.25), 1.0);
                 }
             }
         })
