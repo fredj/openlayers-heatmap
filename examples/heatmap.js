@@ -1,8 +1,8 @@
-var streets = new OpenLayers.Layer.XYZ("MapBox Streets", [
-    "http://a.tiles.mapbox.com/v3/mapbox.mapbox-streets/${z}/${x}/${y}.png",
-    "http://b.tiles.mapbox.com/v3/mapbox.mapbox-streets/${z}/${x}/${y}.png",
-    "http://c.tiles.mapbox.com/v3/mapbox.mapbox-streets/${z}/${x}/${y}.png",
-    "http://d.tiles.mapbox.com/v3/mapbox.mapbox-streets/${z}/${x}/${y}.png"
+var raster = new OpenLayers.Layer.XYZ("MapBox Light", [
+    "http://a.tiles.mapbox.com/v3/mapbox.mapbox-light/${z}/${x}/${y}.png",
+    "http://b.tiles.mapbox.com/v3/mapbox.mapbox-light/${z}/${x}/${y}.png",
+    "http://c.tiles.mapbox.com/v3/mapbox.mapbox-light/${z}/${x}/${y}.png",
+    "http://d.tiles.mapbox.com/v3/mapbox.mapbox-light/${z}/${x}/${y}.png"
 ], {
     attribution: "Tiles &copy; <a href='http://mapbox.com/'>MapBox</a> | " +
         "Data &copy; <a href='http://www.openstreetmap.org/'>OpenStreetMap</a> " +
@@ -41,5 +41,5 @@ var vector = new OpenLayers.Layer.Vector("heatmap", {
     }
 });
 var map = new OpenLayers.Map("map", {
-    layers: [streets, vector]
+    layers: [raster, vector]
 });
