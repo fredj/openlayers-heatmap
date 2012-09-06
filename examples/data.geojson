@@ -4576,23 +4576,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 62096, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-07T19:11:38Z", 
-                "duration": 0, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     8.551111, 
                     47.414616
                 ], 
@@ -4621,23 +4604,6 @@
                 "date": "2012-08-07T19:43:38Z", 
                 "duration": 0, 
                 "placename": "Switzerland, Glattbrugg / Flughofstrasse (ZH)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 62170, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-07T19:59:36Z", 
-                "duration": 0, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -4729,23 +4695,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 62535, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-07T22:32:42Z", 
-                "duration": 6479, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9377093, 
                     46.9983
                 ], 
@@ -4763,23 +4712,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 62921, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-08T01:38:41Z", 
-                "duration": 6423, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9377093, 
                     46.9983
                 ], 
@@ -4791,23 +4723,6 @@
                 "date": "2012-08-08T03:41:43Z", 
                 "duration": 6603, 
                 "placename": "Switzerland, Neuch\u00e2tel (NE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 63364, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-08T05:47:53Z", 
-                "duration": 2874, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -4916,23 +4831,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 64818, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-08T20:51:59Z", 
-                "duration": 21424, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9377093, 
                     46.9983
                 ], 
@@ -4944,23 +4842,6 @@
                 "date": "2012-08-09T03:04:04Z", 
                 "duration": 6423, 
                 "placename": "Switzerland, Neuch\u00e2tel (NE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 65666, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-09T05:07:05Z", 
-                "duration": 2703, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -4984,23 +4865,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 66393, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-09T12:01:13Z", 
-                "duration": 2760, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.937684, 
                     47.000996
                 ], 
@@ -5012,23 +4876,6 @@
                 "date": "2012-08-09T13:02:14Z", 
                 "duration": 45069, 
                 "placename": "Switzerland, Neuch\u00e2tel (NE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 67785, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-10T01:46:32Z", 
-                "duration": 3232, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -5131,23 +4978,6 @@
                 "date": "2012-08-10T19:24:40Z", 
                 "duration": 27075, 
                 "placename": "Switzerland, Neuch\u00e2tel (NE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 70292, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-11T03:08:45Z", 
-                "duration": 3064, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -5273,23 +5103,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 71587, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-11T17:36:58Z", 
-                "duration": 3120, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9377093, 
                     46.9983
                 ], 
@@ -5301,23 +5114,6 @@
                 "date": "2012-08-11T18:41:58Z", 
                 "duration": 6964, 
                 "placename": "Switzerland, Neuch\u00e2tel (NE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 71887, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-11T20:51:02Z", 
-                "duration": 34038, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -5596,23 +5392,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 74031, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-12T20:06:22Z", 
-                "duration": 6662, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9377093, 
                     46.9983
                 ], 
@@ -5624,23 +5403,6 @@
                 "date": "2012-08-12T22:09:32Z", 
                 "duration": 3052, 
                 "placename": "Switzerland, Neuch\u00e2tel (NE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 74338, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-12T23:13:25Z", 
-                "duration": 21547, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -5817,23 +5579,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 76767, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-13T23:46:49Z", 
-                "duration": 9611, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9377093, 
                     46.9983
                 ], 
@@ -5930,23 +5675,6 @@
                 "date": "2012-08-14T12:11:00Z", 
                 "duration": 14764, 
                 "placename": "Switzerland, Bern / Marzili (BE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 78442, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-14T16:30:04Z", 
-                "duration": 4501, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -6089,23 +5817,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 80390, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-15T11:32:23Z", 
-                "duration": 3059, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.5592237, 
                     46.50663
                 ], 
@@ -6202,23 +5913,6 @@
                 "date": "2012-08-16T12:29:03Z", 
                 "duration": 21067, 
                 "placename": "Switzerland, Neuch\u00e2tel (NE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 81682, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-16T18:35:09Z", 
-                "duration": 960, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -6497,23 +6191,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 84673, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-18T11:25:45Z", 
-                "duration": 3602, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.937684, 
                     47.000996
                 ], 
@@ -6650,23 +6327,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 85855, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-19T04:07:03Z", 
-                "duration": 2758, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9377093, 
                     46.9983
                 ], 
@@ -6718,23 +6378,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 87202, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-19T22:47:18Z", 
-                "duration": 3541, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9456224, 
                     46.995636
                 ], 
@@ -6752,23 +6395,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 87453, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-20T02:18:21Z", 
-                "duration": 2940, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9509225, 
                     46.991158
                 ], 
@@ -6780,23 +6406,6 @@
                 "date": "2012-08-20T03:23:21Z", 
                 "duration": 2822, 
                 "placename": "Switzerland, Neuch\u00e2tel (NE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 87603, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-20T04:26:23Z", 
-                "duration": 2821, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -6888,23 +6497,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 88020, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-20T10:09:28Z", 
-                "duration": 2759, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     7.4281354, 
                     46.946327
                 ], 
@@ -6967,23 +6559,6 @@
                 "date": "2012-08-20T16:32:34Z", 
                 "duration": 28267, 
                 "placename": "Switzerland, Neuch\u00e2tel (NE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 88955, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-21T00:38:40Z", 
-                "duration": 3362, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -7211,23 +6786,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 90421, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-21T19:12:57Z", 
-                "duration": 7740, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9377093, 
                     46.9983
                 ], 
@@ -7358,23 +6916,6 @@
                 "date": "2012-08-22T09:04:08Z", 
                 "duration": 2883, 
                 "placename": "Switzerland, Vernier (GE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 91540, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-08-22T10:04:10Z", 
-                "duration": 34868, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -7551,23 +7092,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 115838, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-09-02T08:13:12Z", 
-                "duration": 0, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.146087, 
                     46.238163
                 ], 
@@ -7721,23 +7245,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 116073, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-09-02T11:55:40Z", 
-                "duration": 7296, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9377093, 
                     46.9983
                 ], 
@@ -7749,23 +7256,6 @@
                 "date": "2012-09-02T14:07:34Z", 
                 "duration": 6761, 
                 "placename": "Switzerland, Neuch\u00e2tel (NE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 116340, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-09-02T16:10:36Z", 
-                "duration": 3091, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -7789,23 +7279,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 116603, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-09-02T20:27:15Z", 
-                "duration": 3071, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9377093, 
                     46.9983
                 ], 
@@ -7823,23 +7296,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 116736, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-09-02T22:29:56Z", 
-                "duration": 15288, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9377093, 
                     46.9983
                 ], 
@@ -7851,23 +7307,6 @@
                 "date": "2012-09-03T02:54:57Z", 
                 "duration": 3050, 
                 "placename": "Switzerland, Neuch\u00e2tel (NE)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 117034, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-09-03T03:55:54Z", 
-                "duration": 4877, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
@@ -8248,23 +7687,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 118300, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-09-03T23:56:37Z", 
-                "duration": 17754, 
-                "placename": null
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     6.9377093, 
                     46.9983
                 ], 
@@ -8310,23 +7732,6 @@
                 "date": "2012-09-04T06:04:37Z", 
                 "duration": 1217, 
                 "placename": "Switzerland, Derendingen (SO)"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0, 
-                    0.0
-                ], 
-                "type": "Point"
-            }, 
-            "id": 118890, 
-            "properties": {
-                "accuracy": 80.0, 
-                "date": "2012-09-04T06:35:10Z", 
-                "duration": 0, 
-                "placename": null
             }, 
             "type": "Feature"
         }, 
