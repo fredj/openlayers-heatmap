@@ -15,6 +15,7 @@ var raster = new OpenLayers.Layer.XYZ("MapBox Light", [
 });
 
 var vector = new OpenLayers.Layer.Vector("heatmap", {
+// use the heatmap renderer instead of the default one (SVG, VML or Canvas)
     renderers: ['Heatmap'],
     protocol: new OpenLayers.Protocol.HTTP({
         url: "data.geojson",
@@ -27,6 +28,7 @@ var vector = new OpenLayers.Layer.Vector("heatmap", {
             weight: "${weight}"
         }, {
             context: {
+// the 'weight' of the point (between 0.0 and 1.0), used by the heatmap renderer
                 weight: function(f) {
                     return Math.min(Math.max((f.attributes.duration || 0) / 43200, 0.25), 1.0);
                 }

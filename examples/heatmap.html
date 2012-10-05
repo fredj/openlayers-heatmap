@@ -23,10 +23,13 @@
         <div id="docs">
             <p>
               This heatmap represents the position of a mobile device
-              weighted by the duration of the stay.
+              weighted by the duration of the stay. See the <a href="heatmap.js" target="_blank">heatmap.js</a> source for details.
             </p>
             <p>
-                See the <a href="heatmap.js" target="_blank">heatmap.js</a> source for details.
+                The heatmap is a standard <code>OpenLayers.Layer.Vector</code> layer with the <code>renderers</code> option set to <code>['Heatmap']</code>.
+                The features must have a <code>style.weight</code> value (between 0.0 and 1.0); this value can be extracted from the attributes.
+            </p>
+            <p>
             </p>
             <p>
                 Some code taken from <a href="https://github.com/substack/node-heatmap">https://github.com/substack/node-heatmap</a>
