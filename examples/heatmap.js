@@ -1,18 +1,4 @@
-var raster = new OpenLayers.Layer.XYZ("MapBox Light", [
-    "http://a.tiles.mapbox.com/v3/fredj.map-yq4r3oah/${z}/${x}/${y}.png",
-    "http://b.tiles.mapbox.com/v3/fredj.map-yq4r3oah/${z}/${x}/${y}.png",
-    "http://c.tiles.mapbox.com/v3/fredj.map-yq4r3oah/${z}/${x}/${y}.png",
-    "http://d.tiles.mapbox.com/v3/fredj.map-yq4r3oah/${z}/${x}/${y}.png"
-], {
-    attribution: "Tiles &copy; <a href='http://mapbox.com/'>MapBox</a> | " +
-        "Data &copy; <a href='http://www.openstreetmap.org/'>OpenStreetMap</a> " +
-        "and contributors, CC-BY-SA",
-    sphericalMercator: true,
-    wrapDateLine: true,
-    transitionEffect: "resize",
-    buffer: 1,
-    numZoomLevels: 17
-});
+var raster = new OpenLayers.Layer.OSM("osm");
 
 var vector = new OpenLayers.Layer.Vector("heatmap", {
 // use the heatmap renderer instead of the default one (SVG, VML or Canvas)
